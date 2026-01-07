@@ -1,0 +1,95 @@
+# Continuity Log
+# Track character details, plot points, and foreshadowing for consistency
+
+book:
+  number: "005"
+  slug: "silent-night-deadly-night"
+  victim: "Mara"
+
+characters:
+  primary_victim:
+    name: ""
+    introduced_chapter: 1
+    key_traits: []
+    arc_notes: []
+
+  secondary_characters: []
+    # - name: "Character Name"
+    #   role: "role in story"
+    #   introduced_chapter: X
+    #   fate: "integrated/survives/dies"
+    #   notes: []
+
+  staff_integrated: []
+    # - name: "Staff Name"
+    #   role: "Receptionist"
+    #   revealed_chapter: X
+
+  @hostelreaper:
+    mentions:
+    - chapter: 18
+      context: "Sticker/tag seen at bus station and @HostelReaper profile follows/Messages Mara."
+    # - chapter: X
+    #   context: "what was mentioned"
+
+timeline:
+  day_1: []
+    # - chapter: 1
+    #   time: "Morning"
+    #   event: "Arrival"
+  # day_2, day_3, etc.
+
+foreshadowing:
+  planted: []
+    # - element: "Strange warmth in walls"
+    #   chapter_planted: 2
+    #   chapter_payoff: 38
+    #   status: "planted"  # planted | paid_off
+
+  red_herrings: []
+    # - element: "Suspicious backpacker"
+    #   chapter: 5
+    #   resolved: 12
+
+death_progression:
+  warning_signs:
+    - chapter: 17
+      type: "obvious"
+      element: "Generator exhaust trapped under patio canopy, smoke-only alarm in lobby."
+      victim_rationalization: "She feels too tired and isolated to push staff, goes back to bed."
+    - chapter: 18
+      type: "obvious"
+      element: "Generator vent extension still traps exhaust; @HostelReaper warns not to trust green light during hum."
+      victim_rationalization: "She keeps the window open and waits for morning buses, tells herself it's manageable."
+    # - chapter: X
+    #   type: "subtle/obvious/explicit"
+    #   element: "description"
+    #   victim_rationalization: "how they dismiss it"
+
+locations_used:
+  - location: "Reception"
+    chapters: []
+  - location: "Victim's Room"
+    chapters: []
+  - location: "Bus Station/Terminal"
+    chapters: [18]
+  - location: "Courtyard/Generator"
+    chapters: [16, 17, 18]
+  # etc.
+
+objects:
+  significant_items: []
+    # - item: "Password Card"
+    #   introduced: 3
+    #   significance: "Contains incantation"
+    #   last_mentioned: 38
+
+notes:
+  - chapter: 17
+    note: "Blank account sends photo of hallway door; Mara notices smoke-only lobby detector and exhaust pooling in courtyard."
+  - chapter: 18
+    note: "Bus station closures force return; @HostelReaper appears via sticker and account DM warning about green light during generator hum."
+  # - chapter: X
+  #   note: "Need to reference this later"
+
+last_updated: "2026-01-06"

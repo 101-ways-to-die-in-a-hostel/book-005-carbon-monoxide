@@ -1,0 +1,161 @@
+# Word Count Register
+# Updated automatically by Writer Agent
+
+book:
+  number: "005"
+  slug: "silent-night-deadly-night"
+  target: 250000
+
+daily_log:
+  - date: "2026-01-06"
+    words_written: 4477
+    chapter: 1
+    cumulative: 4477
+  - date: "2026-01-06"
+    words_written: 4326
+    chapter: 2
+    cumulative: 8803
+  - date: "2026-01-06"
+    words_written: 4013
+    chapter: 3
+    cumulative: 12816
+  - date: "2026-01-06"
+    words_written: 4265
+    chapter: 4
+    cumulative: 17081
+  - date: "2026-01-06"
+    words_written: 4089
+    chapter: 5
+    cumulative: 21170
+  - date: "2026-01-06"
+    words_written: 4462
+    chapter: 6
+    cumulative: 25632
+  - date: "2026-01-06"
+    words_written: 4083
+    chapter: 7
+    cumulative: 29715
+  - date: "2026-01-06"
+    words_written: 4092
+    chapter: 8
+    cumulative: 33807
+  - date: "2026-01-06"
+    words_written: 4087
+    chapter: 9
+    cumulative: 37894
+  - date: "2026-01-06"
+    words_written: 4021
+    chapter: 10
+    cumulative: 41915
+  - date: "2026-01-06"
+    words_written: 4164
+    chapter: 11
+    cumulative: 46079
+  - date: "2026-01-06"
+    words_written: 4411
+    chapter: 12
+    cumulative: 50490
+  - date: "2026-01-06"
+    words_written: 4296
+    chapter: 13
+    cumulative: 54786
+  - date: "2026-01-06"
+    words_written: 4166
+    chapter: 14
+    cumulative: 58952
+  - date: "2026-01-06"
+    words_written: 4056
+    chapter: 15
+    cumulative: 63008
+  - date: "2026-01-06"
+    words_written: 4117
+    chapter: 16
+    cumulative: 67125
+  - date: "2026-01-06"
+    words_written: 4162
+    chapter: 17
+    cumulative: 71287
+  - date: "2026-01-06"
+    words_written: 4052
+    chapter: 18
+    cumulative: 75339
+  # - date: "2026-01-06"
+  #   words_written: 5200
+  #   chapter: 1
+  #   cumulative: 5200
+
+weekly_summary: []
+  # - week: 1
+  #   start_date: "2026-01-06"
+  #   words_written: 35000
+  #   chapters_completed: 7
+  #   cumulative: 35000
+
+chapter_breakdown:
+  - chapter: 1
+    word_count: 4477
+    status: "complete"
+  - chapter: 2
+    word_count: 4326
+    status: "complete"
+  - chapter: 3
+    word_count: 4013
+    status: "complete"
+  - chapter: 4
+    word_count: 4265
+    status: "complete"
+  - chapter: 5
+    word_count: 4089
+    status: "complete"
+  - chapter: 6
+    word_count: 4462
+    status: "complete"
+  - chapter: 7
+    word_count: 4083
+    status: "complete"
+  - chapter: 8
+    word_count: 4092
+    status: "complete"
+  - chapter: 9
+    word_count: 4087
+    status: "complete"
+  - chapter: 10
+    word_count: 4021
+    status: "complete"
+  - chapter: 11
+    word_count: 4164
+    status: "complete"
+  - chapter: 12
+    word_count: 4411
+    status: "complete"
+  - chapter: 13
+    word_count: 4296
+    status: "complete"
+  - chapter: 14
+    word_count: 4166
+    status: "complete"
+  - chapter: 15
+    word_count: 4056
+    status: "complete"
+  - chapter: 16
+    word_count: 4117
+    status: "complete"
+  - chapter: 17
+    word_count: 4162
+    status: "complete"
+  - chapter: 18
+    word_count: 4052
+    status: "complete"
+  # ... chapters 2-50 follow same pattern
+
+totals:
+  current: 75339
+  target: 250000
+  remaining: 174661
+  percentage: 30.1
+
+pace:
+  average_per_chapter: 4186
+  estimated_completion: "TBD"
+
+last_updated: "2026-01-06"

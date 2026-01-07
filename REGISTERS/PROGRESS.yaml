@@ -1,0 +1,144 @@
+# Progress Tracker
+# Updated automatically by Writer Agent
+
+book:
+  number: "005"
+  slug: "silent-night-deadly-night"
+  title: "Silent Night Deadly Night"
+  status: "DRAFTING"  # PLANNING | DRAFTING | REVISING | COMPLETE
+
+targets:
+  total_chapters: 50
+  total_words: 250000
+  words_per_chapter: 5000
+
+progress:
+  chapters_complete: 18
+  chapters_in_progress: 0
+  current_word_count: 75339
+  percentage: 30.1
+
+parts:
+  setup:
+    chapters: [1, 2, 3, 4, 5, 6, 7, 8, 9, 10]
+    status: "complete"
+    word_count: 41915
+  escalation:
+    chapters: [11, 12, 13, 14, 15, 16, 17, 18, 19, 20]
+    status: "in_progress"
+    word_count: 33424
+  crisis:
+    chapters: [21, 22, 23, 24, 25, 26, 27, 28, 29, 30]
+    status: "pending"
+    word_count: 0
+  climax:
+    chapters: [31, 32, 33, 34, 35, 36, 37, 38, 39, 40]
+    status: "pending"
+    word_count: 0
+  aftermath:
+    chapters: [41, 42, 43, 44, 45, 46, 47, 48, 49, 50]
+    status: "pending"
+    word_count: 0
+
+chapters:
+  - number: 1
+    title: "The Room With the View of Nothing"
+    status: "complete"  # pending | in_progress | complete
+    word_count: 4477
+    file: "chapters/part-1-setup/chapter-01.md"
+  - number: 2
+    title: "Dead Air"
+    status: "complete"  # pending | in_progress | complete
+    word_count: 4326
+    file: "chapters/part-1-setup/chapter-02.md"
+  - number: 3
+    title: "The Sweetness in the Air"
+    status: "complete"  # pending | in_progress | complete
+    word_count: 4013
+    file: "chapters/part-1-setup/chapter-03.md"
+  - number: 4
+    title: "Oxygen Debt"
+    status: "complete"  # pending | in_progress | complete
+    word_count: 4265
+    file: "chapters/part-1-setup/chapter-04.md"
+  - number: 5
+    title: "The Air That Wants You Back"
+    status: "complete"  # pending | in_progress | complete
+    word_count: 4089
+    file: "chapters/part-1-setup/chapter-05.md"
+  - number: 6
+    title: "The Door That Opened"
+    status: "complete"  # pending | in_progress | complete
+    word_count: 4462
+    file: "chapters/part-1-setup/chapter-06.md"
+  - number: 7
+    title: "The Rules of Air"
+    status: "complete"  # pending | in_progress | complete
+    word_count: 4083
+    file: "chapters/part-1-setup/chapter-07.md"
+  - number: 8
+    title: "Borrowed Breath"
+    status: "complete"  # pending | in_progress | complete
+    word_count: 4092
+    file: "chapters/part-1-setup/chapter-08.md"
+  - number: 9
+    title: "The Night Shift"
+    status: "complete"  # pending | in_progress | complete
+    word_count: 4087
+    file: "chapters/part-1-setup/chapter-09.md"
+  - number: 10
+    title: "The Air You Carry"
+    status: "complete"  # pending | in_progress | complete
+    word_count: 4021
+    file: "chapters/part-1-setup/chapter-10.md"
+  - number: 11
+    title: "The Door That Remembers"
+    status: "complete"  # pending | in_progress | complete
+    word_count: 4164
+    file: "chapters/part-2-escalation/chapter-11.md"
+  - number: 12
+    title: "The Taste That Stays"
+    status: "complete"  # pending | in_progress | complete
+    word_count: 4411
+    file: "chapters/part-2-escalation/chapter-12.md"
+  - number: 13
+    title: "The Number That Lies"
+    status: "complete"  # pending | in_progress | complete
+    word_count: 4296
+    file: "chapters/part-2-escalation/chapter-13.md"
+  - number: 14
+    title: "The Morning That Won't Start"
+    status: "complete"  # pending | in_progress | complete
+    word_count: 4166
+    file: "chapters/part-2-escalation/chapter-14.md"
+  - number: 15
+    title: "The Heat That Follows"
+    status: "complete"  # pending | in_progress | complete
+    word_count: 4056
+    file: "chapters/part-2-escalation/chapter-15.md"
+  - number: 16
+    title: "The Hum That Eats"
+    status: "complete"  # pending | in_progress | complete
+    word_count: 4117
+    file: "chapters/part-2-escalation/chapter-16.md"
+  - number: 17
+    title: "The Sleep That Betrays"
+    status: "complete"  # pending | in_progress | complete
+    word_count: 4162
+    file: "chapters/part-2-escalation/chapter-17.md"
+  - number: 18
+    title: "The Road That Refuses"
+    status: "complete"  # pending | in_progress | complete
+    word_count: 4052
+    file: "chapters/part-2-escalation/chapter-18.md"
+  # ... chapters 2-50 follow same pattern
+
+milestones:
+  canon_complete: false
+  outline_complete: false
+  draft_complete: false
+  revision_complete: false
+  publication_ready: false
+
+last_updated: "2026-01-06"
+updated_by: "system"
